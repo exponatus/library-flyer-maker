@@ -5,7 +5,7 @@ Free and open source. Nothing to install: the whole tool is a single HTML file t
 
 ![Library flyer maker: editor on the left, live A4 preview on the right](docs/images/hero.png)
 
-**[⬇ Download the latest version](../../releases/latest)** · **[▶ Use it online](https://exponatus.github.io/library-flyer-maker/)** · **[📖 User guide](GUIDE.md)** ([PDF](docs/Library-flyer-maker-guide.pdf))
+**[⬇ Download the latest version](../../releases/latest)** · **[▶ Use it online](https://exponatus.github.com/library-flyer-maker/)** · **[📖 User guide](GUIDE.md)** ([PDF](docs/Library-flyer-maker-guide.pdf))
 
 Interface in English, Deutsch and Русский.
 
