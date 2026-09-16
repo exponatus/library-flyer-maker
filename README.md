@@ -113,5 +113,5 @@ Bundled third-party software, with license texts at the end of the HTML file:
 
 ## Authors
 
-Alexander Ananyev and Claude.
+Alexander Ananyev and Claude 😎
 Contact: [alexander.ananyev@tuebingen.mpg.de](mailto:alexander.ananyev@tuebingen.mpg.de)
